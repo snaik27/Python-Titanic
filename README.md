@@ -1,3 +1,4 @@
 # Python-Titanic
-#Kaggle Titanic project attempt
-#Written using Jupyter Notebook through Anaconda on Python 2.7
+Kaggle Titanic project attempt
+
+Attempt 1: SK-Learn's RandomForestClassifier() | 0.69378 accuracy
